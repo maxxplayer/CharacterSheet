@@ -1,0 +1,14 @@
+{
+  "name": "character-sheet-vtt",
+  "version": "1.0.0",
+  "description": "VTT Socket Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
